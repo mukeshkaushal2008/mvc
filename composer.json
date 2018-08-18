@@ -1,0 +1,15 @@
+{
+    "autoload":{
+        "classmap": [
+            "./"
+        ],
+        "files": []
+    },
+    "authors": [
+        {
+            "name": "mukeshkaushal2008",
+            "email": "mukeshkaushal2008@gmail.com"
+        }
+    ],
+    "require": {}
+}
